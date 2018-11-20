@@ -1,1 +1,18 @@
 /*css styles goes here*/
+
+* {
+    box-sizing: border-box;
+}
+
+main >.container {
+    background-color: #A3ACBB;
+}
+
+head{
+    height: 30px;
+    background-color: #EBEAEE;
+}
+
+footer {
+    background-color: #758399;
+}

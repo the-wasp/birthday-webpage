@@ -9,10 +9,23 @@ main >.container {
 }
 
 head{
-    height: 30px;
-    background-color: #EBEAEE;
+    height: 50px;
+    background-color: rgb(238, 234, 238);
+}
+
+head p {
+    padding: 5px;
+}
+
+.gal {
+    cursor: pointer;
+    background-color: rgba (0,0,0,.5);
+    border: 1px solid rgb(226, 88, 208);
+    color: rgb(226, 88, 208);
+    border-radius: 5px;
 }
 
 footer {
     background-color: #758399;
+    height: .05vh;
 }
